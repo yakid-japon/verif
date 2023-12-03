@@ -1,0 +1,1 @@
+function openPopup(){document.getElementById('fader_load').style.display='block';document.getElementById('popup_load').style.display='block';}
